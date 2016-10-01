@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_02_Frag_Yahoo\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_02_Frag_Yahoo\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\src\\main\\res\\menu\\menu_main.xml"
     }

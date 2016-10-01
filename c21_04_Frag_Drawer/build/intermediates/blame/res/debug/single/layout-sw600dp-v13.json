@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

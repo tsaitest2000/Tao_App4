@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",

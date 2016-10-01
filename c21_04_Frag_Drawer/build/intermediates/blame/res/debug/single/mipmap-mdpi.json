@@ -2,5 +2,9 @@
     {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_04_Frag_Drawer\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

@@ -4,7 +4,15 @@
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_01_Frag_Number\\src\\main\\res\\mipmap-xhdpi\\app.png"
     },
     {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_01_Frag_Number\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\app.png",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_01_Frag_Number\\src\\main\\res\\mipmap-xhdpi\\app.png"
+    },
+    {
         "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_01_Frag_Number\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_01_Frag_Number\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_01_Frag_Number\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidApps\\A_Duan_Taoyuan\\Tao_App4\\c21_01_Frag_Number\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
