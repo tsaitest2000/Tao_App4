@@ -1,0 +1,7 @@
+#Sat Oct 01 23:05:02 GMT+08:00 2016
+base.0=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49426b98dff74bdd5d913811205b5d81f3b4d862
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ee654bfa4668ac948a2af5dd4195f4b064435361\\classes.dex
+base.1=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ee654bfa4668ac948a2af5dd4195f4b064435361
+file.0=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_02_Frag_Yahoo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49426b98dff74bdd5d913811205b5d81f3b4d862\\classes.dex

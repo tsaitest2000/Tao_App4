@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="13640293680108"
+    token="4670298918594592310"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="300" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="753" />
+    <task
+        name="verifier"
+        duration="142" />
+
+    <artifact
+        location="D:\AndroidApps\A_Duan_Taoyuan\App4\c21_04_Frag_Drawer\build\outputs\apk\c21_04_Frag_Drawer-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="13640293680108"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidApps\A_Duan_Taoyuan\App4\c21_04_Frag_Drawer\build\outputs\apk\c21_04_Frag_Drawer-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

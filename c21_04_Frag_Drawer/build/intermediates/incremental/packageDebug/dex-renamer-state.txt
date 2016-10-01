@@ -1,0 +1,7 @@
+#Sat Oct 01 23:03:26 GMT+08:00 2016
+base.0=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81ae659a393c7d948bc8f1012406b255ea1f7b24
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b57c813da6cefcb54b8904338861f348db84e59f\\classes.dex
+base.1=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b57c813da6cefcb54b8904338861f348db84e59f
+file.0=D\:\\AndroidApps\\A_Duan_Taoyuan\\App4\\c21_04_Frag_Drawer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81ae659a393c7d948bc8f1012406b255ea1f7b24\\classes.dex
